@@ -1,0 +1,29 @@
+{
+  "name": "myx_web",
+  "version": "1.0.0",
+  "description": "Myxologist Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiltedDrummer/Myx-Web.git"
+  },
+  "author": "Nicholas Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiltedDrummer/Myx-Web/issues"
+  },
+  "homepage": "https://github.com/KiltedDrummer/Myx-Web#readme",
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "thunk": "0.0.1",
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3"
+  }
+}
